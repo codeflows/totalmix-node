@@ -1,0 +1,15 @@
+{
+  "name": "totalmix-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "baconjs": "^0.7.82",
+    "osc": "^2.0.1"
+  },
+  "engines": {
+    "node": "5.1.0"
+  }
+}
